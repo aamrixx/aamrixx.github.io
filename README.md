@@ -1,7 +1,3 @@
-# xhci's website
-## Posts
-
-
 ## Projects
 Rust Webserver : https://github.com/xhci1/webserver
 
